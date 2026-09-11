@@ -10,7 +10,7 @@ Margin Notes is a Mac app for giving agents feedback on what you're reading. Use
 
 ## How it works
 
-https://github.com/user-attachments/assets/e7a0d52a-83af-4f07-9864-c26b6a5ed7a7
+https://github.com/user-attachments/assets/023ba454-9ff6-457d-9523-dd318be95854
 
 1. Open a draft from your agent, or a page you want to comment on.
 2. Select a passage and tap **Shift twice**. The panel opens, ready for you to type your comment.
