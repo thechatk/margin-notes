@@ -1,0 +1,38 @@
+{
+  "name": "margin-notes",
+  "version": "1.0.0",
+  "buildNumber": 11,
+  "private": true,
+  "type": "module",
+  "description": "Capture selected passages, annotate them, and paste one feedback attachment into your agent.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "build:mac": "node scripts/build-mac.mjs",
+    "install:mac": "node scripts/build-mac.mjs --install",
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.mjs",
+    "check": "npm run build && npm test && node scripts/check-release.mjs",
+    "check:desktop": "node scripts/check-desktop-ui.mjs",
+    "check:native": "node scripts/check-native.mjs"
+  },
+  "dependencies": {
+    "@base-ui/react": "1.4.1",
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "framer-motion": "12.42.2",
+    "lucide-react": "0.564.0",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
+    "tailwind-merge": "3.4.0",
+    "zod": "4.6.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "4.1.18",
+    "esbuild": "0.28.2",
+    "playwright": "1.62.1",
+    "tailwindcss": "4.1.18"
+  }
+}

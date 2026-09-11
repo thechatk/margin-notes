@@ -1,0 +1,83 @@
+{
+  "name": "Fluid Functionalism",
+  "license": "MIT",
+  "source": "https://github.com/mickadesign/fluid-functionalism",
+  "revision": "e07409c0f50dea93e68c749021ed672e9dce910a",
+  "files": [
+    {
+      "file": "LICENSE.txt",
+      "source": "https://github.com/mickadesign/fluid-functionalism/blob/e07409c0f50dea93e68c749021ed672e9dce910a/LICENSE",
+      "sha256": "3dc44f653f431ac7920c70f6f064a55a8852e6b7544499bb8506dfbfd351d2e1"
+    },
+    {
+      "file": "components/ui/button.tsx",
+      "registry": "https://www.fluidfunctionalism.com/r/base/button.json",
+      "sha256": "44fb1e6abaca93d2bc976c695d72f7cabf396d413e4857978fba8ed01280e152"
+    },
+    {
+      "file": "components/ui/checkbox-group.tsx",
+      "registry": "https://www.fluidfunctionalism.com/r/base/checkbox-group.json",
+      "sha256": "12ea84ca6e50625218f7cc0ef2b99c0f5718761f8a100db58bea303b42b67761"
+    },
+    {
+      "file": "components/ui/fluid-hover-highlight.tsx",
+      "registry": "https://www.fluidfunctionalism.com/r/use-fluid-hover.json",
+      "sha256": "86d67bbd28a843d7bad433cf499d786476a1f11d7ef74afd4bafc55279304dfc"
+    },
+    {
+      "file": "components/ui/scroll-area.tsx",
+      "registry": "https://www.fluidfunctionalism.com/r/base/scroll-area.json",
+      "sha256": "c1914ba006fb7958fda33b573cac41e2f997e9b3c2d7a452bc339118ff77f5d3"
+    },
+    {
+      "file": "hooks/use-fluid-hover.ts",
+      "registry": "https://www.fluidfunctionalism.com/r/use-fluid-hover.json",
+      "sha256": "0679f89ea955cfda82e8fa87144af89b2688d6b5a87406a02c742b2552081c52"
+    },
+    {
+      "file": "hooks/use-merge-split.tsx",
+      "registry": "https://www.fluidfunctionalism.com/r/use-merge-split.json",
+      "sha256": "5dd15075c9da5590d21bb57b34a293bf9ca2d2e0847b8645c8a6bf98686c3517"
+    },
+    {
+      "file": "hooks/use-touch-primary.tsx",
+      "registry": "https://www.fluidfunctionalism.com/r/use-touch-primary.json",
+      "sha256": "7f8faf99f09138e096119da2b2792fb542f4560cd02a4a5974ce9dc549b6ac62"
+    },
+    {
+      "file": "lib/font-weight.ts",
+      "registry": "https://www.fluidfunctionalism.com/r/font-weight.json",
+      "sha256": "3d249aa3cf6e7e8bf2830e8367659abededc3ed4d430670537a1bd065953a14a"
+    },
+    {
+      "file": "lib/icon-context.tsx",
+      "registry": "https://www.fluidfunctionalism.com/r/icon-context.json",
+      "sha256": "8bcc5b006b8ad712d5378ddba5839992333a6636c83dbaf74af597b58c8bde8a"
+    },
+    {
+      "file": "lib/shape-context.tsx",
+      "registry": "https://www.fluidfunctionalism.com/r/shape-context.json",
+      "sha256": "f50445a1ef9178effe6a26a500f0ed13e85643321059c04ca9e2d248193795f6"
+    },
+    {
+      "file": "lib/size-context.tsx",
+      "registry": "https://www.fluidfunctionalism.com/r/size-context.json",
+      "sha256": "cca35a72e37b121a3a5701c95fde8470626ceb74bcf55fe040b99afd06f0e21f"
+    },
+    {
+      "file": "lib/springs.ts",
+      "registry": "https://www.fluidfunctionalism.com/r/springs.json",
+      "sha256": "b5d1c7c55ba4b865ac1156effc9ae41e95e4fdd08b42cefcda2854e93b817057"
+    },
+    {
+      "file": "lib/utils.ts",
+      "source": "https://github.com/mickadesign/fluid-functionalism/blob/e07409c0f50dea93e68c749021ed672e9dce910a/registry/default/lib/utils.ts",
+      "sha256": "267863ba7a82f11320f207a30735bd19653e0207e1cfd39fde32958ba8c861ce"
+    },
+    {
+      "file": "LICENSE_LINA.txt",
+      "source": "https://github.com/SameerJS6/lina/blob/main/LICENSE",
+      "sha256": "9817ee93a5cabc420489ddf56c43408f2d96207d4398b48bf8a33e57175bacc2"
+    }
+  ]
+}
